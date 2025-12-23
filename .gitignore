@@ -6,6 +6,11 @@ __pycache__/
 
 # Virtual environment
 .venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
 
 # Data
 data/
@@ -17,3 +22,10 @@ data/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# notebooks
+notebooks/overview.ipynb_checkpoints
+notebooks/overview.ipynb
+
+# Scripts
+scripts/data_loader.py
