@@ -25,7 +25,7 @@ data/
 
 # notebooks
 notebooks/overview.ipynb_checkpoints
-notebooks/overview.ipynb
+*.ipynb
 
 # Scripts
 scripts/data_loader.py
